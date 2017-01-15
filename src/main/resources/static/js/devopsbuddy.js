@@ -10,4 +10,6 @@ function main() {
         var $collapse = $this.closest('.collapse-group').find('.collapse');
         $collapse.collapse('toggle');
     });
+
+
 }
